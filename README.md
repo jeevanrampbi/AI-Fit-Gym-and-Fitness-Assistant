@@ -113,7 +113,7 @@ aifit/
 
 ## Team
 
-Built as part of the AI Gym & Fitness Assistant project for Unlox Academy, 2025.
+Built thE AI Gym & Fitness Assistant project for my Capstone Project at Unlox Academy, 2026.
 
 ---
 
