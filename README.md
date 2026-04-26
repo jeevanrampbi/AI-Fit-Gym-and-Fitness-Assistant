@@ -1,7 +1,6 @@
 # AI Gym & Fitness Assistant
 
-> First Year Project — Computer Science Engineering -AIML 
-> Unlox Academy, 2026
+> First Year Project — Computer Science Engineering -Artificial Intelligence and Machine Learning
 
 An AI-powered gym and fitness management system that integrates workout detection, diet planning, behavioral tracking, IoT smart gym assistance, and conversational AI.
 
